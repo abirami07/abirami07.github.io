@@ -1,7 +1,16 @@
-# Abi — Interactive Editorial Portfolio V5
+# Abi — SWE Portfolio (2026 refresh)
 
-Upload **index.html**, **styles.css**, **script.js**, and the entire **assets/** folder to the root of `abirami07.github.io`. The filenames must match exactly.
+Updated directly from the original `abirami07.github.io` repository. Retains the original project dialogs, photography lightbox, interactive technology filters, and personal photos.
 
-New: interactive tech stack, Currently Exploring section, resume link. All existing work, photography, and dialogs are preserved.
+## Publish
+1. Unzip this package.
+2. Copy the **contents** of `abirami07.github.io-main` into the root of your `abirami07.github.io` GitHub repository (replace matching files).
+3. Commit to the default branch; GitHub Pages should deploy automatically if already configured.
 
-To update the résumé, replace `assets/Abirami_Kumar_Resume.pdf` with your latest PDF.
+## Edit
+- `index.html`: layout, copy, links, experience
+- `script.js`: project case-study details and interactions
+- `styles.css`: visual design
+- `assets/Abirami_Kumar_SWE_Resume.pdf`: linked resume
+
+Verify project GitHub links before publishing. This is a static site; no build step needed.
